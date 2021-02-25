@@ -1,1 +1,3 @@
 .now
+.env.development
+.env.production
