@@ -19,9 +19,9 @@
     "dev:personal-minimal": "yarn workspace @blog/personal-minimal develop",
     "build:personal-minimal": "yarn workspace @blog/personal-minimal build",
     "serve:personal-minimal": "yarn workspace @blog/personal-minimal serve",
-    "dev:beauty": "yarn workspace @blog/beauty develop",
-    "build:beauty": "yarn workspace @blog/beauty build",
-    "serve:beauty": "yarn workspace @blog/beauty serve"
+    "dev:flo": "yarn workspace @blog/beauty develop",
+    "build:flo": "yarn workspace @blog/beauty build",
+    "serve:flo": "yarn workspace @blog/beauty serve"
   },
   "devDependencies": {
     "husky": "^4.3.0",
